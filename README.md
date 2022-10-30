@@ -1,6 +1,4 @@
 # timed-writer
-Try to write a block to a file at regular intervals
-# timed-writer
 
 `write()` a block to a file every so many seconds with or without an exclusive lock.
 
